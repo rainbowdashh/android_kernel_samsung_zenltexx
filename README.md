@@ -1,0 +1,2 @@
+# android_kernel_samsung_zenltexx
+# android_kernel_samsung_zenltexx
